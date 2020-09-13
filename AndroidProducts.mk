@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2020 ArrowOS
+# Copyright (C) 2020 ZenX-OS
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_ginkgo.mk
+    $(LOCAL_DIR)/zenx_ginkgo.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_ginkgo-user \
-    arrow_ginkgo-userdebug \
-    arrow_ginkgo-eng
+    zenx_ginkgo-user \
+    zenx_ginkgo-userdebug \
+    zenx_ginkgo-eng
