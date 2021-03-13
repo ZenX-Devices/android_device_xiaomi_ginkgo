@@ -15,4 +15,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Maintainer Info -->
     <string name="zeus_maintainer" translatable="false">Akbar Hamaminatu (Gasiyu)</string>
+
+    <!-- Battery Health -->
+    <string name="config_batChargeCycle" translatable="false">/sys/class/power_supply/bms/cycle_count</string>
+    <string name="config_batDesCap" translatable="false">/sys/class/power_supply/bms/charge_full_design</string>
+    <string name="config_batCurCap" translatable="false">/sys/class/power_supply/bms/charge_full</string>
 </resources>
