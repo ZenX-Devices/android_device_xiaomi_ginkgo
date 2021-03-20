@@ -14,9 +14,7 @@ DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay-lineage
 
 PRODUCT_PACKAGES += \
-    GinkgoMiuiCamera \
-    NoCutoutOverlay \
-    NotchBarKiller
+    GinkgoMiuiCamera
 
 # AID/fs configs
 PRODUCT_PACKAGES += \
